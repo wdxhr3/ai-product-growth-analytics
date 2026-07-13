@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+data/raw/*.csv
+data/processed/*.csv
+data/database/*.duckdb
+data/database/*.duckdb.wal
+
+assets/dashboard_screenshots/*.png
